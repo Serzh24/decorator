@@ -1,0 +1,1001 @@
+Function: get_link
+Date and time: 2021-08-02 21:57:02.874952
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Zimbabwe'), {}
+Return value: https://en.wikipedia.org/wiki/Zimbabwe
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.874952
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Zambia'), {}
+Return value: https://en.wikipedia.org/wiki/Zambia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.875949
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'South Africa'), {}
+Return value: https://en.wikipedia.org/wiki/South_Africa
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.875949
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Yemen'), {}
+Return value: https://en.wikipedia.org/wiki/Yemen
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.875949
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Samoa'), {}
+Return value: https://en.wikipedia.org/wiki/Samoa
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.876947
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Wallis and Futuna'), {}
+Return value: https://en.wikipedia.org/wiki/Wallis_and_Futuna
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.876947
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Vanuatu'), {}
+Return value: https://en.wikipedia.org/wiki/Vanuatu
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.876947
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Vietnam'), {}
+Return value: https://en.wikipedia.org/wiki/Vietnam
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.876947
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'United States Virgin Islands'), {}
+Return value: https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.877944
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'British Virgin Islands'), {}
+Return value: https://en.wikipedia.org/wiki/British_Virgin_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.877944
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Venezuela'), {}
+Return value: https://en.wikipedia.org/wiki/Venezuela
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.877944
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Vincent and the Grenadines'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.877944
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Vatican City'), {}
+Return value: https://en.wikipedia.org/wiki/Vatican_City
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.878946
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Uzbekistan'), {}
+Return value: https://en.wikipedia.org/wiki/Uzbekistan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.878946
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'United States'), {}
+Return value: https://en.wikipedia.org/wiki/United_States
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.878946
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Uruguay'), {}
+Return value: https://en.wikipedia.org/wiki/Uruguay
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.878946
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'United States Minor Outlying Islands'), {}
+Return value: https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.879939
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ukraine'), {}
+Return value: https://en.wikipedia.org/wiki/Ukraine
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.879939
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Uganda'), {}
+Return value: https://en.wikipedia.org/wiki/Uganda
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.879939
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tanzania'), {}
+Return value: https://en.wikipedia.org/wiki/Tanzania
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.879939
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Taiwan'), {}
+Return value: https://en.wikipedia.org/wiki/Taiwan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.880936
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tuvalu'), {}
+Return value: https://en.wikipedia.org/wiki/Tuvalu
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.880936
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Turkey'), {}
+Return value: https://en.wikipedia.org/wiki/Turkey
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.880936
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tunisia'), {}
+Return value: https://en.wikipedia.org/wiki/Tunisia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.880936
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Trinidad and Tobago'), {}
+Return value: https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.881934
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tonga'), {}
+Return value: https://en.wikipedia.org/wiki/Tonga
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.881934
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Timor-Leste'), {}
+Return value: https://en.wikipedia.org/wiki/Timor-Leste
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.881934
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Turkmenistan'), {}
+Return value: https://en.wikipedia.org/wiki/Turkmenistan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.881934
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tokelau'), {}
+Return value: https://en.wikipedia.org/wiki/Tokelau
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.881934
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Tajikistan'), {}
+Return value: https://en.wikipedia.org/wiki/Tajikistan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.882931
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Thailand'), {}
+Return value: https://en.wikipedia.org/wiki/Thailand
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.882931
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Togo'), {}
+Return value: https://en.wikipedia.org/wiki/Togo
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.882931
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Chad'), {}
+Return value: https://en.wikipedia.org/wiki/Chad
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.882931
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Turks and Caicos Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.882931
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Syria'), {}
+Return value: https://en.wikipedia.org/wiki/Syria
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.883928
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Seychelles'), {}
+Return value: https://en.wikipedia.org/wiki/Seychelles
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.883928
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Sint Maarten'), {}
+Return value: https://en.wikipedia.org/wiki/Sint_Maarten
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.883928
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Eswatini'), {}
+Return value: https://en.wikipedia.org/wiki/Eswatini
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.883928
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Sweden'), {}
+Return value: https://en.wikipedia.org/wiki/Sweden
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.884925
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Slovenia'), {}
+Return value: https://en.wikipedia.org/wiki/Slovenia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.884925
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Slovakia'), {}
+Return value: https://en.wikipedia.org/wiki/Slovakia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.884925
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Suriname'), {}
+Return value: https://en.wikipedia.org/wiki/Suriname
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.884925
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'São Tomé and Príncipe'), {}
+Return value: https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.884925
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'South Sudan'), {}
+Return value: https://en.wikipedia.org/wiki/South_Sudan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.885923
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Serbia'), {}
+Return value: https://en.wikipedia.org/wiki/Serbia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.885923
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Pierre and Miquelon'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.885923
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Somalia'), {}
+Return value: https://en.wikipedia.org/wiki/Somalia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.885923
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'San Marino'), {}
+Return value: https://en.wikipedia.org/wiki/San_Marino
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.886920
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'El Salvador'), {}
+Return value: https://en.wikipedia.org/wiki/El_Salvador
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.886920
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Sierra Leone'), {}
+Return value: https://en.wikipedia.org/wiki/Sierra_Leone
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.886920
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Solomon Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Solomon_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.886920
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Svalbard and Jan Mayen'), {}
+Return value: https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.886920
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'South Georgia'), {}
+Return value: https://en.wikipedia.org/wiki/South_Georgia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.887917
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Singapore'), {}
+Return value: https://en.wikipedia.org/wiki/Singapore
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.887917
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Senegal'), {}
+Return value: https://en.wikipedia.org/wiki/Senegal
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.887917
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Sudan'), {}
+Return value: https://en.wikipedia.org/wiki/Sudan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.887917
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saudi Arabia'), {}
+Return value: https://en.wikipedia.org/wiki/Saudi_Arabia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.887917
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Rwanda'), {}
+Return value: https://en.wikipedia.org/wiki/Rwanda
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.888915
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Russia'), {}
+Return value: https://en.wikipedia.org/wiki/Russia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.888915
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Romania'), {}
+Return value: https://en.wikipedia.org/wiki/Romania
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.888915
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Réunion'), {}
+Return value: https://en.wikipedia.org/wiki/Réunion
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.888915
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Qatar'), {}
+Return value: https://en.wikipedia.org/wiki/Qatar
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.889912
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'French Polynesia'), {}
+Return value: https://en.wikipedia.org/wiki/French_Polynesia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.889912
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Palestine'), {}
+Return value: https://en.wikipedia.org/wiki/Palestine
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.889912
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Paraguay'), {}
+Return value: https://en.wikipedia.org/wiki/Paraguay
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.889912
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Portugal'), {}
+Return value: https://en.wikipedia.org/wiki/Portugal
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.889912
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'North Korea'), {}
+Return value: https://en.wikipedia.org/wiki/North_Korea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.890909
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Puerto Rico'), {}
+Return value: https://en.wikipedia.org/wiki/Puerto_Rico
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.890909
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Poland'), {}
+Return value: https://en.wikipedia.org/wiki/Poland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.890909
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Papua New Guinea'), {}
+Return value: https://en.wikipedia.org/wiki/Papua_New_Guinea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.890909
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Palau'), {}
+Return value: https://en.wikipedia.org/wiki/Palau
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.890909
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Philippines'), {}
+Return value: https://en.wikipedia.org/wiki/Philippines
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.891906
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Peru'), {}
+Return value: https://en.wikipedia.org/wiki/Peru
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.891906
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Pitcairn Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Pitcairn_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.891906
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Panama'), {}
+Return value: https://en.wikipedia.org/wiki/Panama
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.891906
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Pakistan'), {}
+Return value: https://en.wikipedia.org/wiki/Pakistan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.891906
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Oman'), {}
+Return value: https://en.wikipedia.org/wiki/Oman
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.892904
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'New Zealand'), {}
+Return value: https://en.wikipedia.org/wiki/New_Zealand
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.892904
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Nauru'), {}
+Return value: https://en.wikipedia.org/wiki/Nauru
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.892904
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Nepal'), {}
+Return value: https://en.wikipedia.org/wiki/Nepal
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.892904
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Norway'), {}
+Return value: https://en.wikipedia.org/wiki/Norway
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.892904
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Netherlands'), {}
+Return value: https://en.wikipedia.org/wiki/Netherlands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.893901
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Niue'), {}
+Return value: https://en.wikipedia.org/wiki/Niue
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.893901
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Nicaragua'), {}
+Return value: https://en.wikipedia.org/wiki/Nicaragua
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.893901
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Nigeria'), {}
+Return value: https://en.wikipedia.org/wiki/Nigeria
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.893901
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Norfolk Island'), {}
+Return value: https://en.wikipedia.org/wiki/Norfolk_Island
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.894899
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Niger'), {}
+Return value: https://en.wikipedia.org/wiki/Niger
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.894899
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'New Caledonia'), {}
+Return value: https://en.wikipedia.org/wiki/New_Caledonia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.894899
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Namibia'), {}
+Return value: https://en.wikipedia.org/wiki/Namibia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.894899
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mayotte'), {}
+Return value: https://en.wikipedia.org/wiki/Mayotte
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.894899
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Malaysia'), {}
+Return value: https://en.wikipedia.org/wiki/Malaysia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.895896
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Malawi'), {}
+Return value: https://en.wikipedia.org/wiki/Malawi
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.895896
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mauritius'), {}
+Return value: https://en.wikipedia.org/wiki/Mauritius
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.895896
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Martinique'), {}
+Return value: https://en.wikipedia.org/wiki/Martinique
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.895896
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Montserrat'), {}
+Return value: https://en.wikipedia.org/wiki/Montserrat
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.896893
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mauritania'), {}
+Return value: https://en.wikipedia.org/wiki/Mauritania
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.896893
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mozambique'), {}
+Return value: https://en.wikipedia.org/wiki/Mozambique
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.896893
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Northern Mariana Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.896893
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mongolia'), {}
+Return value: https://en.wikipedia.org/wiki/Mongolia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.896893
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Montenegro'), {}
+Return value: https://en.wikipedia.org/wiki/Montenegro
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.897891
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Myanmar'), {}
+Return value: https://en.wikipedia.org/wiki/Myanmar
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.897891
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Malta'), {}
+Return value: https://en.wikipedia.org/wiki/Malta
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.897891
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mali'), {}
+Return value: https://en.wikipedia.org/wiki/Mali
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.897891
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'North Macedonia'), {}
+Return value: https://en.wikipedia.org/wiki/North_Macedonia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.898887
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Marshall Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Marshall_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.898887
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Mexico'), {}
+Return value: https://en.wikipedia.org/wiki/Mexico
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.898887
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Maldives'), {}
+Return value: https://en.wikipedia.org/wiki/Maldives
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.898887
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Madagascar'), {}
+Return value: https://en.wikipedia.org/wiki/Madagascar
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.898887
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Moldova'), {}
+Return value: https://en.wikipedia.org/wiki/Moldova
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.899885
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Monaco'), {}
+Return value: https://en.wikipedia.org/wiki/Monaco
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.899885
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Morocco'), {}
+Return value: https://en.wikipedia.org/wiki/Morocco
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.899885
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Martin'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Martin
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.899885
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Macau'), {}
+Return value: https://en.wikipedia.org/wiki/Macau
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.900882
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Latvia'), {}
+Return value: https://en.wikipedia.org/wiki/Latvia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.900882
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Luxembourg'), {}
+Return value: https://en.wikipedia.org/wiki/Luxembourg
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.900882
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Lithuania'), {}
+Return value: https://en.wikipedia.org/wiki/Lithuania
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.900882
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Lesotho'), {}
+Return value: https://en.wikipedia.org/wiki/Lesotho
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.900882
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Sri Lanka'), {}
+Return value: https://en.wikipedia.org/wiki/Sri_Lanka
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.901879
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Liechtenstein'), {}
+Return value: https://en.wikipedia.org/wiki/Liechtenstein
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.901879
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Lucia'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Lucia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.901879
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Libya'), {}
+Return value: https://en.wikipedia.org/wiki/Libya
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.901879
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Liberia'), {}
+Return value: https://en.wikipedia.org/wiki/Liberia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.902877
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Lebanon'), {}
+Return value: https://en.wikipedia.org/wiki/Lebanon
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.902877
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Laos'), {}
+Return value: https://en.wikipedia.org/wiki/Laos
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.902877
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kuwait'), {}
+Return value: https://en.wikipedia.org/wiki/Kuwait
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.902877
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kosovo'), {}
+Return value: https://en.wikipedia.org/wiki/Kosovo
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.903874
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'South Korea'), {}
+Return value: https://en.wikipedia.org/wiki/South_Korea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.903874
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Kitts and Nevis'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.903874
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kiribati'), {}
+Return value: https://en.wikipedia.org/wiki/Kiribati
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.903874
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cambodia'), {}
+Return value: https://en.wikipedia.org/wiki/Cambodia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.903874
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kyrgyzstan'), {}
+Return value: https://en.wikipedia.org/wiki/Kyrgyzstan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.904871
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kenya'), {}
+Return value: https://en.wikipedia.org/wiki/Kenya
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.904871
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Kazakhstan'), {}
+Return value: https://en.wikipedia.org/wiki/Kazakhstan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.904871
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Japan'), {}
+Return value: https://en.wikipedia.org/wiki/Japan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.904871
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Jordan'), {}
+Return value: https://en.wikipedia.org/wiki/Jordan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.904871
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Jersey'), {}
+Return value: https://en.wikipedia.org/wiki/Jersey
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.905869
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Jamaica'), {}
+Return value: https://en.wikipedia.org/wiki/Jamaica
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.905869
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Italy'), {}
+Return value: https://en.wikipedia.org/wiki/Italy
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.905869
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Israel'), {}
+Return value: https://en.wikipedia.org/wiki/Israel
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.905869
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Iceland'), {}
+Return value: https://en.wikipedia.org/wiki/Iceland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.906866
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Iraq'), {}
+Return value: https://en.wikipedia.org/wiki/Iraq
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.906866
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Iran'), {}
+Return value: https://en.wikipedia.org/wiki/Iran
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.906866
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ireland'), {}
+Return value: https://en.wikipedia.org/wiki/Ireland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.906866
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'British Indian Ocean Territory'), {}
+Return value: https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.906866
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'India'), {}
+Return value: https://en.wikipedia.org/wiki/India
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.907863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Isle of Man'), {}
+Return value: https://en.wikipedia.org/wiki/Isle_of_Man
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.907863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Indonesia'), {}
+Return value: https://en.wikipedia.org/wiki/Indonesia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.907863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Hungary'), {}
+Return value: https://en.wikipedia.org/wiki/Hungary
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.907863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Haiti'), {}
+Return value: https://en.wikipedia.org/wiki/Haiti
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.907863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Croatia'), {}
+Return value: https://en.wikipedia.org/wiki/Croatia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.908861
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Honduras'), {}
+Return value: https://en.wikipedia.org/wiki/Honduras
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.908861
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Heard Island and McDonald Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.908861
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Hong Kong'), {}
+Return value: https://en.wikipedia.org/wiki/Hong_Kong
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.908861
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guyana'), {}
+Return value: https://en.wikipedia.org/wiki/Guyana
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.908861
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guam'), {}
+Return value: https://en.wikipedia.org/wiki/Guam
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.909858
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'French Guiana'), {}
+Return value: https://en.wikipedia.org/wiki/French_Guiana
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.909858
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guatemala'), {}
+Return value: https://en.wikipedia.org/wiki/Guatemala
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.909858
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Greenland'), {}
+Return value: https://en.wikipedia.org/wiki/Greenland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.910863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Grenada'), {}
+Return value: https://en.wikipedia.org/wiki/Grenada
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.910863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Greece'), {}
+Return value: https://en.wikipedia.org/wiki/Greece
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.910863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Equatorial Guinea'), {}
+Return value: https://en.wikipedia.org/wiki/Equatorial_Guinea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.910863
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guinea-Bissau'), {}
+Return value: https://en.wikipedia.org/wiki/Guinea-Bissau
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.911853
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Gambia'), {}
+Return value: https://en.wikipedia.org/wiki/Gambia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.911853
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guadeloupe'), {}
+Return value: https://en.wikipedia.org/wiki/Guadeloupe
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.911853
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guinea'), {}
+Return value: https://en.wikipedia.org/wiki/Guinea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.912855
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Gibraltar'), {}
+Return value: https://en.wikipedia.org/wiki/Gibraltar
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.912855
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ghana'), {}
+Return value: https://en.wikipedia.org/wiki/Ghana
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.912855
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Guernsey'), {}
+Return value: https://en.wikipedia.org/wiki/Guernsey
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.912855
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Georgia'), {}
+Return value: https://en.wikipedia.org/wiki/Georgia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.913847
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'United Kingdom'), {}
+Return value: https://en.wikipedia.org/wiki/United_Kingdom
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.913847
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Gabon'), {}
+Return value: https://en.wikipedia.org/wiki/Gabon
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.913847
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Micronesia'), {}
+Return value: https://en.wikipedia.org/wiki/Micronesia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.913847
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Faroe Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Faroe_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.914845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'France'), {}
+Return value: https://en.wikipedia.org/wiki/France
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.914845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Falkland Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Falkland_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.914845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Fiji'), {}
+Return value: https://en.wikipedia.org/wiki/Fiji
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.914845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Finland'), {}
+Return value: https://en.wikipedia.org/wiki/Finland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.914845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ethiopia'), {}
+Return value: https://en.wikipedia.org/wiki/Ethiopia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.915842
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Estonia'), {}
+Return value: https://en.wikipedia.org/wiki/Estonia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.915842
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Spain'), {}
+Return value: https://en.wikipedia.org/wiki/Spain
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.915842
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Western Sahara'), {}
+Return value: https://en.wikipedia.org/wiki/Western_Sahara
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.915842
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Eritrea'), {}
+Return value: https://en.wikipedia.org/wiki/Eritrea
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.916839
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Egypt'), {}
+Return value: https://en.wikipedia.org/wiki/Egypt
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.916839
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ecuador'), {}
+Return value: https://en.wikipedia.org/wiki/Ecuador
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.916839
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Algeria'), {}
+Return value: https://en.wikipedia.org/wiki/Algeria
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.916839
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Dominican Republic'), {}
+Return value: https://en.wikipedia.org/wiki/Dominican_Republic
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.916839
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Denmark'), {}
+Return value: https://en.wikipedia.org/wiki/Denmark
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.917837
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Dominica'), {}
+Return value: https://en.wikipedia.org/wiki/Dominica
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.917837
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Djibouti'), {}
+Return value: https://en.wikipedia.org/wiki/Djibouti
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.917837
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Germany'), {}
+Return value: https://en.wikipedia.org/wiki/Germany
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.918836
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Czechia'), {}
+Return value: https://en.wikipedia.org/wiki/Czechia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.918836
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cyprus'), {}
+Return value: https://en.wikipedia.org/wiki/Cyprus
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.918836
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cayman Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Cayman_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.918836
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Christmas Island'), {}
+Return value: https://en.wikipedia.org/wiki/Christmas_Island
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.919845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Curaçao'), {}
+Return value: https://en.wikipedia.org/wiki/Curaçao
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.919845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cuba'), {}
+Return value: https://en.wikipedia.org/wiki/Cuba
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.919845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Costa Rica'), {}
+Return value: https://en.wikipedia.org/wiki/Costa_Rica
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.919845
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cape Verde'), {}
+Return value: https://en.wikipedia.org/wiki/Cape_Verde
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.920829
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Comoros'), {}
+Return value: https://en.wikipedia.org/wiki/Comoros
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.920829
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Colombia'), {}
+Return value: https://en.wikipedia.org/wiki/Colombia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.920829
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cook Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Cook_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.921826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Republic of the Congo'), {}
+Return value: https://en.wikipedia.org/wiki/Republic_of_the_Congo
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.921826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'DR Congo'), {}
+Return value: https://en.wikipedia.org/wiki/DR_Congo
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.921826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cameroon'), {}
+Return value: https://en.wikipedia.org/wiki/Cameroon
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.921826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Ivory Coast'), {}
+Return value: https://en.wikipedia.org/wiki/Ivory_Coast
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.921826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'China'), {}
+Return value: https://en.wikipedia.org/wiki/China
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.922823
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Chile'), {}
+Return value: https://en.wikipedia.org/wiki/Chile
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.922823
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Switzerland'), {}
+Return value: https://en.wikipedia.org/wiki/Switzerland
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.922823
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Cocos (Keeling) Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.922823
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Canada'), {}
+Return value: https://en.wikipedia.org/wiki/Canada
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.923821
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Central African Republic'), {}
+Return value: https://en.wikipedia.org/wiki/Central_African_Republic
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.923821
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Botswana'), {}
+Return value: https://en.wikipedia.org/wiki/Botswana
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.923821
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bouvet Island'), {}
+Return value: https://en.wikipedia.org/wiki/Bouvet_Island
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.923821
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bhutan'), {}
+Return value: https://en.wikipedia.org/wiki/Bhutan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.923821
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Brunei'), {}
+Return value: https://en.wikipedia.org/wiki/Brunei
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.924818
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Barbados'), {}
+Return value: https://en.wikipedia.org/wiki/Barbados
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.924818
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Brazil'), {}
+Return value: https://en.wikipedia.org/wiki/Brazil
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.924818
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Caribbean Netherlands'), {}
+Return value: https://en.wikipedia.org/wiki/Caribbean_Netherlands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.924818
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bolivia'), {}
+Return value: https://en.wikipedia.org/wiki/Bolivia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.924818
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bermuda'), {}
+Return value: https://en.wikipedia.org/wiki/Bermuda
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.925815
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Belize'), {}
+Return value: https://en.wikipedia.org/wiki/Belize
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.925815
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Belarus'), {}
+Return value: https://en.wikipedia.org/wiki/Belarus
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.925815
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Helena, Ascension and Tristan da Cunha'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.926814
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Saint Barthélemy'), {}
+Return value: https://en.wikipedia.org/wiki/Saint_Barthélemy
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.926814
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bosnia and Herzegovina'), {}
+Return value: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.926814
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bahamas'), {}
+Return value: https://en.wikipedia.org/wiki/Bahamas
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.926814
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bahrain'), {}
+Return value: https://en.wikipedia.org/wiki/Bahrain
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.927811
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bulgaria'), {}
+Return value: https://en.wikipedia.org/wiki/Bulgaria
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.927811
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Bangladesh'), {}
+Return value: https://en.wikipedia.org/wiki/Bangladesh
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.927811
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Burkina Faso'), {}
+Return value: https://en.wikipedia.org/wiki/Burkina_Faso
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.927811
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Benin'), {}
+Return value: https://en.wikipedia.org/wiki/Benin
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.928808
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Belgium'), {}
+Return value: https://en.wikipedia.org/wiki/Belgium
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.928808
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Burundi'), {}
+Return value: https://en.wikipedia.org/wiki/Burundi
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.928808
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Azerbaijan'), {}
+Return value: https://en.wikipedia.org/wiki/Azerbaijan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.928808
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Austria'), {}
+Return value: https://en.wikipedia.org/wiki/Austria
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.928808
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Australia'), {}
+Return value: https://en.wikipedia.org/wiki/Australia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.929826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Antigua and Barbuda'), {}
+Return value: https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.929826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'French Southern and Antarctic Lands'), {}
+Return value: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.929826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Antarctica'), {}
+Return value: https://en.wikipedia.org/wiki/Antarctica
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.929826
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'American Samoa'), {}
+Return value: https://en.wikipedia.org/wiki/American_Samoa
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.930803
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Armenia'), {}
+Return value: https://en.wikipedia.org/wiki/Armenia
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.930803
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Argentina'), {}
+Return value: https://en.wikipedia.org/wiki/Argentina
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.930803
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'United Arab Emirates'), {}
+Return value: https://en.wikipedia.org/wiki/United_Arab_Emirates
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.930803
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Andorra'), {}
+Return value: https://en.wikipedia.org/wiki/Andorra
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.931831
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Albania'), {}
+Return value: https://en.wikipedia.org/wiki/Albania
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.931831
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Åland Islands'), {}
+Return value: https://en.wikipedia.org/wiki/Åland_Islands
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.931831
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Anguilla'), {}
+Return value: https://en.wikipedia.org/wiki/Anguilla
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.931831
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Angola'), {}
+Return value: https://en.wikipedia.org/wiki/Angola
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.932816
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Afghanistan'), {}
+Return value: https://en.wikipedia.org/wiki/Afghanistan
+------------------------------Function: get_link
+Date and time: 2021-08-02 21:57:02.932816
+Arguments: (<__main__.Wiki object at 0x000001F5AD458FA0>, 'Aruba'), {}
+Return value: https://en.wikipedia.org/wiki/Aruba
+------------------------------

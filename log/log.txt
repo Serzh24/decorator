@@ -1,0 +1,4 @@
+Function: dollar_rate
+Date and time: 2021-08-02 21:09:16.400158
+Arguments: ('https://yandex.ru/',), {}
+Return value: 73,01
